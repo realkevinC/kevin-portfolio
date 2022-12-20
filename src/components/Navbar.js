@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "../styles/Navbar.css"
-import { Reorder } from "@material-ui/icons";
+import { MdReorder } from "react-icons/md";
 
 
 
@@ -16,7 +16,7 @@ function Navbar() {
     return (
     <div className="navbar" id={expandNavbar ? "open" : "close"}>
         <div className="toggleButton">
-            <button onClick={() => setExpandNavbar((prev) => !prev)}> <Reorder/> </button>
+            <button onClick={() => setExpandNavbar((prev) => !prev)}> <MdReorder/> </button>
         </div>    
         <div className="links">
             <Link to="/"> Home </Link>

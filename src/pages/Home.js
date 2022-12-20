@@ -1,4 +1,5 @@
-import { LinkedIn, Email, GitHub} from "@material-ui/icons";
+import {BsGithub, BsLinkedin} from "react-icons/bs";
+import { MdEmail } from "react-icons/md";
 import React from "react";
 import "../styles/Home.css"
 
@@ -12,12 +13,12 @@ function Home() {
                 <p>I'm looking for opportunities to work with the latest technologies to tackle on challenges and diverse projects. As a lifelong student, I am open minded into learning new technologies and adapting to it. I am confident in my abilities, constantly working on improving myself, naturally curious, and work well in team environments.</p>
                 <p>If I had to summarize me in one sentence that would be tech enthusiast, sport fanatic, foodie, gamer, and an explorer.</p>
                 <a target = 'blank' rel='noreferrer' href='https://www.linkedin.com/in/kevin-chen-069b71181/'>
-                <LinkedIn />
+                <BsLinkedin />
                 </a>
                 <a target = 'blank' rel='noreferrer' href='https://github.com/realkevinC'>
-                <GitHub />
+                <BsGithub />
                 </a>
-                <a href="mailto:kevinchen1688@yahoo.com"><Email />
+                <a href="mailto:kevinchen1688@yahoo.com"><MdEmail />
                 </a>
                 
             </div>
