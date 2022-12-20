@@ -2,6 +2,7 @@
   "name": "kevin-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://realkevinc.github.io/kevin-portfolio",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
