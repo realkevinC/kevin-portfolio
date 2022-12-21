@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kevin-portfolio/static/css/main.40ed8e9d.css",
-    "main.js": "/kevin-portfolio/static/js/main.b35ee388.js",
-    "static/js/787.b62e4628.chunk.js": "/kevin-portfolio/static/js/787.b62e4628.chunk.js",
-    "static/media/gift-guide.jpg": "/kevin-portfolio/static/media/gift-guide.59c6af503a9fa2693997.jpg",
-    "static/media/lucarios-menu.jpg": "/kevin-portfolio/static/media/lucarios-menu.41bb1d04f958d03b7721.jpg",
-    "static/media/my-daily-almanac.png": "/kevin-portfolio/static/media/my-daily-almanac.ec2a959e275fd0874781.png",
-    "index.html": "/kevin-portfolio/index.html",
-    "main.40ed8e9d.css.map": "/kevin-portfolio/static/css/main.40ed8e9d.css.map",
-    "main.b35ee388.js.map": "/kevin-portfolio/static/js/main.b35ee388.js.map",
-    "787.b62e4628.chunk.js.map": "/kevin-portfolio/static/js/787.b62e4628.chunk.js.map"
+    "main.css": "/static/css/main.40ed8e9d.css",
+    "main.js": "/static/js/main.5a5302fe.js",
+    "static/js/787.b62e4628.chunk.js": "/static/js/787.b62e4628.chunk.js",
+    "static/media/gift-guide.jpg": "/static/media/gift-guide.59c6af503a9fa2693997.jpg",
+    "static/media/lucarios-menu.jpg": "/static/media/lucarios-menu.41bb1d04f958d03b7721.jpg",
+    "static/media/my-daily-almanac.png": "/static/media/my-daily-almanac.ec2a959e275fd0874781.png",
+    "index.html": "/index.html",
+    "main.40ed8e9d.css.map": "/static/css/main.40ed8e9d.css.map",
+    "main.5a5302fe.js.map": "/static/js/main.5a5302fe.js.map",
+    "787.b62e4628.chunk.js.map": "/static/js/787.b62e4628.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40ed8e9d.css",
-    "static/js/main.b35ee388.js"
+    "static/js/main.5a5302fe.js"
   ]
 }
