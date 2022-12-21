@@ -19,7 +19,7 @@ function Navbar() {
             <button onClick={() => setExpandNavbar((prev) => !prev)}> <MdReorder/> </button>
         </div>    
         <div className="links">
-            <Link to="/"> Home </Link>
+            <Link to="/kevin-portfolio"> Home </Link>
             <Link to="/projects"> Projects </Link>
             <Link to="/experience"> Experience </Link>
         </div>
