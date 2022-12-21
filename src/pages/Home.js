@@ -2,11 +2,14 @@ import {BsGithub, BsLinkedin} from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import React from "react";
 import "../styles/Home.css"
+import KevDev from "../assets/image 1.png"
+
 
 function Home() {
     return (
     <div className="home">
         <div className="about">
+          <img src={KevDev} alt="KevDev"/>
             <h2>Hi, I'm Kevin, <br/>a Full Stack Web Developer.</h2>
             <div className="prompt">
                 <p>I'm a graduate at Columbia Full Stack Coding Bootcamp. I'm very curious and ambitious front-end developer looking for a role in an established IT company.</p>
