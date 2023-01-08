@@ -1,9 +1,9 @@
-import {BsGithub, BsLinkedin} from "react-icons/bs";
+import {BsGithub, BsLinkedin, BsPersonLinesFill} from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import React from "react";
 import "../styles/Home.css"
 import KevDev from "../assets/image 1.png"
-
+import resume from "../assets/Kevin-Chen-Resume.pdf"
 
 function Home() {
     return (
@@ -22,6 +22,9 @@ function Home() {
                 <BsGithub />
                 </a>
                 <a href="mailto:kevinchen1688@yahoo.com"><MdEmail />
+                </a>
+                <a target = 'blank' rel='noreferrer' href= {resume} >
+                <BsPersonLinesFill />
                 </a>
                 
             </div>
