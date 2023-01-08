@@ -22,6 +22,12 @@
     font-size: 25px;
     color: #3e497a;
   }
+  .project .icon p{
+    margin-top:25px;
+    margin-left: 40px;
+    display: inline-block;
+    align-items: center;
+  }
   
   .project svg {
     font-size: 60px;

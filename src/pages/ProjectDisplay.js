@@ -15,9 +15,14 @@ function ProjectDisplay() {
         <p>
           <b>Skills:</b> {project.skills}
         </p>
+        <div class='icon'>
         <p>
         {project.GitHub}
         </p>
+        <p>
+        {project.Link}
+        </p>
+        </div>
       </div>
     );
   }
