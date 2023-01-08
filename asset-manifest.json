@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/kevin-portfolio/static/css/main.d7a68725.css",
-    "main.js": "/kevin-portfolio/static/js/main.5373c32b.js",
+    "main.css": "/kevin-portfolio/static/css/main.8999731b.css",
+    "main.js": "/kevin-portfolio/static/js/main.40b0364b.js",
     "static/js/787.b62e4628.chunk.js": "/kevin-portfolio/static/js/787.b62e4628.chunk.js",
     "static/media/gift-guide.jpg": "/kevin-portfolio/static/media/gift-guide.59c6af503a9fa2693997.jpg",
     "static/media/lucarios-menu.jpg": "/kevin-portfolio/static/media/lucarios-menu.41bb1d04f958d03b7721.jpg",
     "static/media/my-daily-almanac.png": "/kevin-portfolio/static/media/my-daily-almanac.ec2a959e275fd0874781.png",
+    "static/media/Kevin-Chen-Resume.pdf": "/kevin-portfolio/static/media/Kevin-Chen-Resume.6d0ecdbbd5ffaaa937aa.pdf",
     "static/media/image 1.png": "/kevin-portfolio/static/media/image 1.fefd023ad3a57140bf62.png",
     "index.html": "/kevin-portfolio/index.html",
-    "main.d7a68725.css.map": "/kevin-portfolio/static/css/main.d7a68725.css.map",
-    "main.5373c32b.js.map": "/kevin-portfolio/static/js/main.5373c32b.js.map",
+    "main.8999731b.css.map": "/kevin-portfolio/static/css/main.8999731b.css.map",
+    "main.40b0364b.js.map": "/kevin-portfolio/static/js/main.40b0364b.js.map",
     "787.b62e4628.chunk.js.map": "/kevin-portfolio/static/js/787.b62e4628.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a68725.css",
-    "static/js/main.5373c32b.js"
+    "static/css/main.8999731b.css",
+    "static/js/main.40b0364b.js"
   ]
 }
