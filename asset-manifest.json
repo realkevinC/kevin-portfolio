@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kevin-portfolio/static/css/main.8999731b.css",
-    "main.js": "/kevin-portfolio/static/js/main.40b0364b.js",
-    "static/js/787.b62e4628.chunk.js": "/kevin-portfolio/static/js/787.b62e4628.chunk.js",
+    "main.js": "/kevin-portfolio/static/js/main.1e846b98.js",
+    "static/js/787.2d3a14ad.chunk.js": "/kevin-portfolio/static/js/787.2d3a14ad.chunk.js",
     "static/media/gift-guide.jpg": "/kevin-portfolio/static/media/gift-guide.59c6af503a9fa2693997.jpg",
     "static/media/lucarios-menu.jpg": "/kevin-portfolio/static/media/lucarios-menu.41bb1d04f958d03b7721.jpg",
     "static/media/my-daily-almanac.png": "/kevin-portfolio/static/media/my-daily-almanac.ec2a959e275fd0874781.png",
@@ -10,11 +10,11 @@
     "static/media/image 1.png": "/kevin-portfolio/static/media/image 1.fefd023ad3a57140bf62.png",
     "index.html": "/kevin-portfolio/index.html",
     "main.8999731b.css.map": "/kevin-portfolio/static/css/main.8999731b.css.map",
-    "main.40b0364b.js.map": "/kevin-portfolio/static/js/main.40b0364b.js.map",
-    "787.b62e4628.chunk.js.map": "/kevin-portfolio/static/js/787.b62e4628.chunk.js.map"
+    "main.1e846b98.js.map": "/kevin-portfolio/static/js/main.1e846b98.js.map",
+    "787.2d3a14ad.chunk.js.map": "/kevin-portfolio/static/js/787.2d3a14ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8999731b.css",
-    "static/js/main.40b0364b.js"
+    "static/js/main.1e846b98.js"
   ]
 }
