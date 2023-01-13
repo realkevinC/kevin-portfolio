@@ -30,7 +30,7 @@
   
   .about .prompt {
     width: 85%;
-    font-size: 20px;
+    font-size: 25px;
   }
   .prompt svg {
     font-size: 40px;
@@ -58,7 +58,7 @@
   }
   
   .list span {
-    font-size: 20px;
+    font-size: 30px;
   }
   
   @media only screen and (max-width: 600px) {
@@ -87,4 +87,23 @@
     .skills h2 {
       font-size: 30px;
     }
+  }
+  @media only screen and (min-width:800px) and (max-width: 1024px){
+    .about img {
+      height: 350px;
+      margin-top: -100px;
+      margin-bottom: 15px;
+    }
+    .about .prompt {
+      /* margin-top:-50px; */
+      font-size: 25px;
+      width: 80%;
+    }
+    .skills {
+      text-align: center;
+    }
+    .list span {
+      font-size: 40px;
+    }
+
   }

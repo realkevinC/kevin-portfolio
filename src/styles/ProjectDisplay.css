@@ -5,27 +5,29 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+
   }
   
   .project h1 {
-    margin-top: 200px;
+    margin-top: 300px;
     margin-bottom: 50px;
     color: #3e497a;
     font-size: 35px;
   }
   .project img {
-    width: 600px;
+    width: 500px;
+    height: 500px;
     border-radius: 10px;
   }
   
-  .project p {
+  .text {
+    width: 50%;
     font-size: 25px;
     color: #3e497a;
   }
   .project .icon p{
-    margin-top:25px;
-    margin-left: 40px;
-    display: inline-block;
+    margin: 0 30px;
+    display: inline;
     align-items: center;
   }
   
@@ -37,19 +39,33 @@
     .project p {
     font-size: 20px;
     color: #3e497a;
+    width: 80%;
   }
   .project img {
-    width: 300px;
+    width: 100%;
     border-radius: 10px;
+    
   }
+  .project h1 {
+    margin-top: 250px;
+    margin-bottom: 25px;
+    
   }
-  @media only screen and (max-width: 1300px){
+}
+
+
+  @media only screen and (min-width:800px) and (max-width: 1024px){
     .project p {
-        font-size: 30px;
+      width: 80%;
+        font-size: 40px;
         color: #3e497a;
       }
       .project img {
-        width: 500px;
+        width: 550px;
         border-radius: 10px;
+      }
+      .project h1 {
+        margin-top: 250px;
+        margin-bottom: 50px;
       }
   }
